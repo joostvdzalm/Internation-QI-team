@@ -2,11 +2,11 @@
 
 Group members:
 
-| Name                | email-address                       | Student number |
-|---------------------|-------------------------------------|----------------|
-| Boran Apak          | <placeholder>                       | 4552342        |
-| Yorgos Sotiropoulos | <placeholder>                       | 5231175        |
-| Joost van der Zalm  | <placeholder>                       | 4440943        |
+| Name                |
+|---------------------|
+| Boran Apak          |
+| Yorgos Sotiropoulos |
+| Joost van der Zalm  |
 
 
 # Proposal for the Fundamentals of Quantum Information Project
