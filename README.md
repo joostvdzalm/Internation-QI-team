@@ -4,9 +4,9 @@ Group members:
 
 | Name                | email-address                       | Student number |
 |---------------------|-------------------------------------|----------------|
-| Boran Apak          | B.apak@student.tudelft.nl           | 4552342        |
-| Yorgos Sotiropoulos | G.SOTIROPOULOS-1@student.tudelft.nl | 5231175        |
-| Joost van der Zalm  | J.C.vanderzalm@student.tudelft.nl   | 4440943        |
+| Boran Apak          | <placeholder>                       | 4552342        |
+| Yorgos Sotiropoulos | <placeholder>                       | 5231175        |
+| Joost van der Zalm  | <placeholder>                       | 4440943        |
 
 
 # Proposal for the Fundamentals of Quantum Information Project
